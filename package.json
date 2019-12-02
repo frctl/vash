@@ -1,0 +1,26 @@
+{
+  "name": "@frctl/vash",
+  "version": "0.0.1",
+  "description": "Use Vash templates with Fractal.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frctl/vash.git"
+  },
+  "keywords": [
+    "fractal",
+    "vash"
+  ],
+  "author": "Matt Chapman <matt.chapman@clearleft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frctl/vash/issues"
+  },
+  "peerDependencies": {
+    "@frctl/fractal": "^1.2.0"
+  },
+  "homepage": "https://github.com/frctl/vash#readme"
+}
