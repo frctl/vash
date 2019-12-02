@@ -38,5 +38,8 @@
   },
   "dependencies": {
     "vash": "^0.12.9"
+  },
+  "peerDependencies": {
+    "@frctl/fractal": "^1.2.0"
   }
 }
