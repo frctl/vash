@@ -22,5 +22,12 @@
   "peerDependencies": {
     "@frctl/fractal": "^1.2.0"
   },
-  "homepage": "https://github.com/frctl/vash#readme"
+  "homepage": "https://github.com/frctl/vash#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
 }
